@@ -1,0 +1,9 @@
+# Notes in the Terminal Application
+# No external dependencies required - uses only Python standard library
+# Python 3.6+ required
+
+# Optional: GPG command-line tool for encryption features
+# Install GPG on your system:
+# - Ubuntu/Debian: sudo apt-get install gnupg
+# - macOS: brew install gnupg
+# - Fedora: sudo dnf install gnupg
